@@ -28,6 +28,8 @@ I go to the *Highschool of Telecommunication Arts and Technology* (__HSTAT__). I
 
 This is a portolio you can use to find all of the cool projects I've made this year, so far the only one on there is my *Mammalteers* project that I made with my SEP parters (you should definetly go check it out!)
 
+
+
 Thats about it for now when it comes to this README file, goodbye!
 
 
